@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [3386-button-with-longest-push-time](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3386-button-with-longest-push-time) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Greedy
 |  |
