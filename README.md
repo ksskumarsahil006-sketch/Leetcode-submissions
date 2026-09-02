@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0506-relative-ranks) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3386-button-with-longest-push-time](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3386-button-with-longest-push-time) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0506-relative-ranks) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Tree
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0506-relative-ranks](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0506-relative-ranks) |
 <!---LeetCode Topics End-->
