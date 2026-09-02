@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3386-button-with-longest-push-time](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3386-button-with-longest-push-time) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Greedy
 |  |
 | ------- |
@@ -66,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+## Math
+|  |
+| ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 <!---LeetCode Topics End-->
