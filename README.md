@@ -8,12 +8,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Two Pointers
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0086-partition-list) |
+| [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Array
 |  |
@@ -30,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Bit Manipulation
 |  |
@@ -71,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
