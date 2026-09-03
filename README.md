@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Floyd's Cycle Finding Algorithm
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
