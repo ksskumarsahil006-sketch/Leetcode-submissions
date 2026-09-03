@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3386-button-with-longest-push-time](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3386-button-with-longest-push-time) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Greedy
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
