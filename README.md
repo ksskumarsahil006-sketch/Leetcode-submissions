@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0796-rotate-string) |
+| [0940-distinct-subsequences-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 ## Number Theory
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3904-smallest-stable-index-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
