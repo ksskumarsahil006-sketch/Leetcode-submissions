@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3386-button-with-longest-push-time](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3386-button-with-longest-push-time) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3875-construct-uniform-parity-array-i) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Bit Manipulation
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0115-distinct-subsequences](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0115-distinct-subsequences) |
 | [0940-distinct-subsequences-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
