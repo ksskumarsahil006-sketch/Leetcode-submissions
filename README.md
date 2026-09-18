@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Hash Table
 |  |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3483-unique-3-digit-even-numbers) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0506-relative-ranks](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0506-relative-ranks) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0796-rotate-string](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0796-rotate-string) |
 | [0940-distinct-subsequences-ii](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0940-distinct-subsequences-ii) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 ## Number Theory
 |  |
 | ------- |
