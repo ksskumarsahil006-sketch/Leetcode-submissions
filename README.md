@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0274-h-index) |
 | [0506-relative-ranks](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0506-relative-ranks) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0274-h-index](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0274-h-index) |
 | [0506-relative-ranks](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0506-relative-ranks) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -173,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3498-reverse-degree-of-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
