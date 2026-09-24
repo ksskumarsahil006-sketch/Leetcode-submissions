@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0476-number-complement](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/0476-number-complement) |
+| [1009-complement-of-base-10-integer](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/1009-complement-of-base-10-integer) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/ksskumarsahil006-sketch/Leetcode-submissions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Breadth-First Search
 |  |
